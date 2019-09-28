@@ -1,5 +1,12 @@
 .navegacao {
     background-color: #4a7300;
     color: #fffdd0;
+    text-transform: uppercase;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, .2);
+    padding: 1.5rem;
+    z-index: 99;
+    position: fixed;
+    width: 100%;
+    transition: all 1s;
 
 }
