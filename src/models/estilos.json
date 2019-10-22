@@ -1,0 +1,22 @@
+[
+    {
+        "id" : 1,
+        "estilo" : "American India Pale Ale - IPA",
+        "escola" : "Americana"
+    },
+    {
+        "id" : 2,
+        "estilo" : "English Barley Wine",
+        "escola" : "Inglesa"
+    },
+    {
+        "id" : 3,
+        "estilo" : "Kolsch",
+        "escola" : "Alemã" 
+    },
+    {
+        "id" : 4,
+        "estilo" : "Saison",
+        "escola" : "Belga"
+    }
+]
